@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors
 
-<<<<<<< HEAD
 # Frontend Mentor - Rock, Paper, Scissors
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
@@ -122,4 +121,3 @@ This challenge is completely free. Please share it with anyone who will find it 
 **Have fun building!** 🚀
 =======
 # Rock-Paper-Scissors
->>>>>>> 3471213f750b3bc479738a9ce5fcae7f7477eefc
